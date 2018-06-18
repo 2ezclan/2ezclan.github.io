@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "2EZ CLAN",
+    "short_name": "2EZ CLAN",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#ff1063",
+    "background_color": "#ff1063",
     "display": "standalone"
 }
